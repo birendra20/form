@@ -1,0 +1,60 @@
+thead {
+  color: rgb(47, 137, 216);
+  font-size: 20px;
+  font-weight: bold;
+}
+.detail {
+  background-color: red;
+}
+table {
+  margin: auto;
+  margin-top: 40px;
+}
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px 10px;
+  background-color: rgb(32, 31, 31);
+  color: white;
+  position: relative;
+}
+
+table {
+  margin-top: 20px;
+}
+
+form {
+  background-color: rgb(32, 31, 31);
+  color: aliceblue;
+  padding: 30px;
+  margin-bottom: 40px;
+
+  box-shadow: rgba(121, 141, 175, 0.3) x 0px 0px 3px;
+}
+input {
+  margin: 5px;
+  padding: 5px 5px;
+  font-weight: bold;
+  font-size: 13px;
+}
+select {
+  margin: 10px;
+  padding: 5px;
+}
+
+body {
+  background-color: #b983ff;
+}
+
+table {
+  width: 80%;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+body {
+  background-color: rgb(32, 31, 31);
+}
